@@ -1,0 +1,11 @@
+[build]
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/updates.json"
+  to = "/.netlify/functions/updates"
+  status = 200
+  force = true
