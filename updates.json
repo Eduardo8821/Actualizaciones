@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Lanzamiento inicial del sistema de actualizaciones automáticas para Vector V12.",
-  "pub_date": "2026-03-11T19:00:00Z",
+  "version": "1.0.2",
+  "notes": "Actualización a la versión 1.0.2 - Mejoras generales.",
+  "pub_date": "2026-03-12T02:51:40.100Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjFweVlVYmd2blphTzRSZXpqdW1VV0dQTmxGZExqUHM4eVp1MkZOd2svcDJ0Y1RaVFVPbG9Tb0Nnck1OUFJJUytOeUoyQ0o5MStkbFcrTkJWN2VQZjlwa3BPMEpJcEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMjY5Mjc1CWZpbGU6VmVjdG9yVjEyXzEuMC4xX3g2NC1zZXR1cC5leGUKV21iWmYvM0NEWU5ab3kxbFNKaHc0U0FMeCs2eU9GNHlMMnM2RlhVT2JUREp3M1VmVVVhUXpsYW54cVlQb1dJR0o0VDBzYmI0dVpsSmhzUG1PNjRxQ2c9PQo=",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/v1.0.1/VectorV12_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjFweVlVYmd2blFId3BkTWFEbnRKMmdTSjRSZmNkbkh4dzhON1NrU1pycDF6azg3S1UzMTFHYXFOQ3BtYy8zcXhpaWY5NUNUWkx0dFpCampLZjYvZ01BdGo3a1JNb3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMjczMTAyCWZpbGU6VmVjdG9yVjEyXzEuMC4yX3g2NC1zZXR1cC5leGUKZG5EWURaaGw0eHQxYjVXUEhYenVHYnI3eEF4SkduV2ZrL05sSzd4d2MvMkpZc2FFODE1eVdZRC96UWxGVkRzSEdhekZYM0l6OWRjTE00bEFINFBHQ1E9PQo=",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/v1.0.2/VectorV12_1.0.2_x64-setup.exe"
     }
   }
 }
