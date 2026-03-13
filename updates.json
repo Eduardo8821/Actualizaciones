@@ -1,8 +1,8 @@
 {
   "version": "1.0.2",
   "name": "VectorV12",
-  "notes": "Actualización a la versión 1.0.2 - Mejoras generales.",
-  "pub_date": "2026-03-12T02:51:40.100Z",
+  "notes": "Mejoras generales y sistema de actualizaciones v2 activo.",
+  "pub_date": "2026-03-13T01:04:01.000Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjFweVlVYmd2blFId3BkTWFEbnRKMmdTSjRSZmNkbkh4dzhON1NrU1pycDF6azg3S1UzMTFHYXFOQ3BtYy8zcXhpaWY5NUNUWkx0dFpCampLZjYvZ01BdGo3a1JNb3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMjczMTAyCWZpbGU6VmVjdG9yVjEyXzEuMC4yX3g2NC1zZXR1cC5leGUKZG5EWURaaGw0eHQxYjVXUEhYenVHYnI3eEF4SkduV2ZrL05sSzd4d2MvMkpZc2FFODE1eVdZRC96UWxGVkRzSEdhekZYM0l6OWRjTE00bEFINFBHQ1E9PQo=",
