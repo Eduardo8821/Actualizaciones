@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "Actualización estable - Vector V12 (Alojamiento Público)",
+  "pub_date": "2026-03-29T14:46:56.156Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjFweVlVYmd2bmNENVJ2M245VlA0VG1rMTVTVnBqL1M1TU9DTEtxS0JrM1AyTUlXWHBLbk85WlBTSGNlT09GQXR1OXpWT0ROdjg1V2c0N29iNDlGMGEwUUJ0YXEwdndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODA2Nzg5CWZpbGU6VmVjdG9yVjEyXzEuMC4wX3g2NC1zZXR1cC5leGUKNEE4SUlFZTVZaHlxbmswT3pPZFZqS00rRUxTK0pzcUptdTdreEhoeVM4OUtUS2ZEcyszeFZsRlpvVkZUYTNRUDBMbmkvc3krU0dDdE9RSWFla0UxRGc9PQo=",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/v1.0.1/VectorV12_1.0.1_x64-setup.exe"
+    }
+  }
+}
