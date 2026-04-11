@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
-  "notes": "Vector V12 v1.0.1 - Reseteo de Seguridad y Mejoras.",
-  "pub_date": "2026-04-10T00:00:00.000Z",
+  "notes": "Vector V12 v1.0.1 - Reseteo de Seguridad Completo (Claves Regeneradas).",
+  "pub_date": "2026-04-11T00:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjFweVlVYmd2bmR3eXN3eVJaM0NramxyejlZaDdpY0l1UHMxR0JqcWxsMDZhbWR1dHI0aVpPZ0tvMTVXU1dSQXptYmRIWXU2Tms4R01PR2FTU3VnUDMxT2ZPQ0Q2WWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Nzg4OTMzCWZpbGU6VmVjdG9yVjEyXzEuMC4xX3g2NC1zZXR1cC5leGUKNDRweDJ0UXFGWElML2w3Wlg1VlA3d2hEU0VSTGtNMklCQVgvdm1rWmhWano1d011bUpvV3N6OHZSL2JQb2hLelMwTy8xaHQ1K25Qa1pmV3FHL0RnQlE9PQo=",
