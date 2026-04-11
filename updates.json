@@ -1,10 +1,10 @@
 {
   "version": "1.0.1",
-  "notes": "Vector V12 v1.0.1 - Sincronización Permanente de Seguridad.",
+  "notes": "Vector V12 v1.0.1 - Sincronización Permanente de Seguridad (Firma Forzada).",
   "pub_date": "2026-04-11T00:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjFweVlVYmd2bmM2WWQ2VTZhZDhONTFHZlJyVk96UWlzVTV2b3ZNRGNYZ1p6OWJjc2tzeGpXbzZ4Y1ViVHR3OE8rVVNmMFltL0lxOWZBYUNIR3MxK0FwQkRkbVE1TmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTEwODgzCWZpbGU6VmVjdG9yVjEyXzEuMC4xX3g2NC1zZXR1cC5leGUKbE94TWQxZzlzZzlvVXBZRk5DQlRXRlJXd3ZWUmlPUTF0SDd5ZWhrRFYyd2ZuQXd5NHNFU0RFZWZMdVJrZnU1QVExRlVMWGpoMnY1dEt4RXVicitFQXc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUjFweVlVYmd2bmRlTzJoSFZjcWdMY3h3N1FFVHRqdFpXSzVCbWloU28xZ1Z3RjM4dzB4aHZseGQyOWk0bW0rNE1xM2pMTlQ5MW45UE03T1hMYU1JMllWZ3JsUTlvM3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTE0MjMwCWZpbGU6VmVjdG9yVjEyXzEuMC4xX3g2NC1zZXR1cC5leGUKTi81Q3lMenRvb0g0TEtqVVJCVUZjZ3pTRHhSZ1VlMXFFc2xNcloxSFFVM0lZUmJkcWduakxHbUxVTE0xemZCRCtOWGNXOVY5VmNQLzdWV2NWaDBnQnc9PQo=",
       "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/v1.0.1/VectorV12_1.0.1_x64-setup.exe"
     }
   }
