@@ -1,11 +1,12 @@
 {
-  "version": "1.0.2",
-  "notes": "Vector V12 v1.0.2 - Implemenacion para cambiar el valor de la tasa BCV Manual ).",
-  "pub_date": "2026-04-12T00:00:00.000Z",
+  "version": "1.0.3",
+  "notes": "Vector V12 v1.0.3 - Mejoras en la seguridad, Pc Madre y Satélites (Llave Maestra y Restricciones)",
+  "pub_date": "2026-04-20T14:50:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0YraENFSUJoNG1sU2YvT1hOdm8vKzFQMGdGYUhKVVlSYWJXLzNTcmRsdVBPN1ptZkg4d1NFdGl2dzhLZ0NCdkx0eFByRUtlMFJmNTBvQlI5bGNCZkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDA2MDI1CWZpbGU6VmVjdG9yVjEyXzEuMC4yX3g2NC1zZXR1cC5leGUKclJmM2dKVk1oZHFnQzlvaWVtek9XR2wwTnBjZGhFRU0rU05CR0FRRnJKTmpMYzlOUzVkbkEzWUVmVU5KVmpEYjZVa294eXpXdDFRSVNJWG0vY0hIQ2c9PQo=",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/v1.0.2/VectorV12_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T1BSM3dkcUtlelp2RDBMaEtrOENTYmFkVmovZ2I5MzhqU3oyTFJkL3FZU3hYaDI5TE5JU2h5OGQrYjhJMG5jcU9VWktsQ2NSd1lhN2VzNmFFMUNaV3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Njk2Njg0CWZpbGU6VmVjdG9yVjEyXzEuMC4zX3g2NC1zZXR1cC5leGUKZE95WHloY0NJNHhPSC93eCtFajJaL2dOSzl3aWVnY1RCQzB2ZWNtMWZORmNvcDloNS8wNkw0TlBBeU5LQXlsZllRWjdRWmRscUgyd2NFSWhpakdDQkE9PQo=",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/v1.0.3/VectorV12_1.0.3_x64-setup.exe"
     }
   }
 }
+
