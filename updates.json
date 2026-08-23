@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "Se agrego la secion de recibos al nivel de licencia 1 (Lite))",
+  "version": "1.0.7",
+  "notes": "Se mejoro el calculo del cierre de caja, para una mayor precision",
   "pub_date": "2026-05-18T19:48:49.000Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0h2bStKNDd4SzFOK2NNQ1F4NUZWTTRzSUxFOUNWMFhNZnNtQ0d5Tjg5V2hBNHJHdnJUajcxWXU2RHplOWRkMzVpQzRvbENteS8rZWdza25MYzJmbUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTEyNzU4CWZpbGU6VmVjdG9yVjEyXzEuMC42X3g2NC1zZXR1cC5leGUKNW1TNitTMHpWTGlDWU56VWs0TzdVQ1dTNXU4N1lPaVVQOWIvM3FEa0xtbDllcVliRThMNWxNVHNZayszT0Q3bldDNGw5b2VNenB3ajVycE02cWZlQWc9PQo=",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.6/VectorV12_1.0.6_x64-setup.exe"
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.7/VectorV12_1.0.7_x64-setup.exe"
     }
   }
 }
