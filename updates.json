@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "notes": "Se mejoro el calculo del cierre de caja, para una mayor precision",
   "pub_date": "2026-05-18T19:48:49.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0p5VGV2bkxQUWRpdjhVVE1DQUpuVHNoT2dmUUVCMzVvbzljUVU3WS9NUVczYjkwalR2dng3MHdnYktHeEVUWDREQ3hTSkFqOXRRMCtYMjZEYXNYNXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTE3MDY2CWZpbGU6VmVjdG9yVjEyXzEuMC43X3g2NC1zZXR1cC5leGUKbk1jbVBFcytpaWhNY0JjaWl2bnZqTEdhc0QwQmhVaklrUWpKZHljbXJiRURXeTBsd1ZkN0FxWjR2ZFBMWVRFZGlVM2RUMmVUNWZnNHFtMThycVY1RGc9PQo=",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.7/VectorV12_1.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0VNczVGQkR5b0xxbTRNNlhPZ0c3bVpiMVpnRTIreVVrays5NlFIcGwxVlF6c2cyNUZOWUVHOGR3bzhLVjlZVHhQRmtsbEpCbnNOcFpmcVFlZitRaWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTQ1NDEwCWZpbGU6VmVjdG9yVjEyXzEuMC44X3g2NC1zZXR1cC5leGUKQzFyL3FQWE16N3h4ZVVIUHR5WWRxVyt4Z3hET3E0MGcvejZ6ZEVhYnBjVWMrdmMwR0Rlb1AwTHhpSDZnTTNXNmlzSEphaGxmaVhyNHE1dy9zK3lBQkE9PQo=",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.8/VectorV12_1.0.8_x64-setup.exe"
     }
   }
 }
