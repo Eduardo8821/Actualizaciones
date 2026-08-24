@@ -1,6 +1,6 @@
 {
   "version": "1.0.8",
-  "notes": "Se mejoro el calculo del cierre de caja, para una mayor precision",
+  "notes": "Se mejoro la impresion termica y se agrego una nueva seccion (Fiao)",
   "pub_date": "2026-05-18T19:48:49.000Z",
   "platforms": {
     "windows-x86_64": {
