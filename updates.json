@@ -4,7 +4,7 @@
   "pub_date": "2026-05-18T19:48:49.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "untrusted comment: signature from tauri secret key\nRURex2z3jsWuOLLcyhnO8P3PxJIK/QRc1BTIcwrIoWHoAEoGkt7nOYzct3W4r8wFG2P4kgGfB741WWSgycMe4osJSgM04GY4wM=\ntrusted comment: timestamp:1788430408\tfile:VectorV12_1.0.10_x64-setup.exe\n/KJsOCJXA6zHcbY4VGmud7ZHVEY1IMNs5hayUGe74KxLmLAc+OUbaQZ5d2+CjreMAihiCmGVYVFYCuHs4Z0lAQ==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0xMY3lobk84UDNQeEpaSUsvUVJjMUJUSWN3cklvV0hvQUVvR2t0N25PWXpjdDNXNHI4d0ZHMlA0a2dHZkI3NDFXV1NneWNNZTRvc0pTZ00wNEdZNHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDMwNDA4CWZpbGU6VmVjdG9yVjEyXzEuMC4xMF94NjQtc2V0dXAuZXhlCi9LSnNPQ0pYQTZ6SGNiWTRWR211ZDdaSFZFWTFJTU5zNWhheVVHZTc0S3hMbUxBYytPVWJhUVo1ZDIrQ2pyZU1BaWhpQ21HVllWRllDdUhzNFowbEFRPT0K",
       "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.10/VectorV12_1.0.10_x64-setup.exe"
     }
   }
