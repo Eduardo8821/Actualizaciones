@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "notes": "Se mejoro la impresion termica y se agrego una nueva seccion (Fiao) y se mejoro la comunicacion entre PC Madre/Satelite",
   "pub_date": "2026-05-18T19:48:49.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0pRalEya0RwTTRWK0JUTHByeElsMU11SURUR3N2dDY4bW50MnhRVzhYRmlIdnU5OGo1Z2VFZGdlci9qZ2RQUmQxZ1cwZVVlUWhjVisxSHVIWHA2M3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDA0MDIxCWZpbGU6VmVjdG9yVjEyXzEuMC45X3g2NC1zZXR1cC5leGUKRUFXamlkS2hsVnFFZmZqR1QzRENMdlQ3UElLVTFObWVhaUxFekJvOWIxNlF0Z3MrWUJ4WHVSTGhoUU9KNlo1Q1BINU5zaC9QSlA1TDFldmRRS3VRQ2c9PQo=",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.9/VectorV12_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T09iZUxPeFdwcVhGU2E2QTUzOXBuK1JtWUwxWDl0NW9uM3A2MzFrUkZtSVVMSm9QcTc0Q2FOdTBWWGxhc2ZWcE5lQWJsOTJrTU4ybDcxbVBOOXFLaEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDA1NDYyCWZpbGU6VmVjdG9yVjEyXzEuMC4xMF94NjQtc2V0dXAuZXhlCitJR29YKzhkdnZNQ3dNa1ZCcFZkRWE5RHFyUWhRdFhUQkFhRDB1NG0wK28rQ1VPaFJsNUVSWVlWd1NqS2tKRmZwVytLOUk5NGc3Z2x1UWlMZnpZYkNnPT0K=",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.10/VectorV12_1.0.10_x64-setup.exe"
     }
   }
 }
