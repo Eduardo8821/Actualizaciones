@@ -1,11 +1,11 @@
 {
-  "version": "1.0.11",
-  "notes": "Se agrego una funcion, para la vental al Mayor!",
+  "version": "1.0.12",
+  "notes": "Mejora, para la conexion de pesas digitales y unificacion del servicio RED",
   "pub_date": "2026-05-18T19:48:49.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0VVV3VMTEVweWFuVGkrWUJ0Z3graUNWOVN4RGhoUVVUdXFML21GYzhwSk9hanU5RHFZYnZXdGxWM01MbThpUWdaZmVTdEt4Zyt6a3U2SXIwNm5SbGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTIwNTM0CWZpbGU6VmVjdG9yVjEyXzEuMC4xMV94NjQtc2V0dXAuZXhlCkdKSGpqVTJpT1NrSmhtdnhHbFZzOS9DbjkxWmVYd2VublpBRHhtc0ZYY2I5VHFjTGpwWEpEblFSRHAwTW1EeWVoMWo1MHEzZEFFY2JKZGVvNW5wbkF3PT0K",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.11/VectorV12_1.0.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0x0SXdkd3AzWVEwM2I0WVpnRW5lYnNZa1dTM1IzSUs0bmM0elZCOVlhdllxeEUyMFpvTEIzYnExRHdMdGl6c2dSQk4yU1duMldKMmxibHAwZWZTVWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzgyMDYwCWZpbGU6VmVjdG9yVjEyXzEuMC4xMl94NjQtc2V0dXAuZXhlCkJCWW9CK3VSTkxZVTVWbzhZUncyTnVyU0tQNkpBdXJ2TVBTNzR5eElPelBPRUNhWHlzQnByM3JEUzRZSWxoN3NZTWpEYTF0V0FsLzVEQ3JWaVJtM0FBPT0K",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.12/VectorV12_1.0.12_x64-setup.exe"
     }
   }
 }
