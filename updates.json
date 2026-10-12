@@ -1,11 +1,11 @@
 {
-  "version": "1.0.12",
-  "notes": "Mejora, para la conexion de pesas digitales y unificacion del servicio RED",
+  "version": "1.0.13",
+  "notes": "Deteccion en inventario para evitar productos duplicados",
   "pub_date": "2026-05-18T19:48:49.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0x0SXdkd3AzWVEwM2I0WVpnRW5lYnNZa1dTM1IzSUs0bmM0elZCOVlhdllxeEUyMFpvTEIzYnExRHdMdGl6c2dSQk4yU1duMldKMmxibHAwZWZTVWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzgyMDYwCWZpbGU6VmVjdG9yVjEyXzEuMC4xMl94NjQtc2V0dXAuZXhlCkJCWW9CK3VSTkxZVTVWbzhZUncyTnVyU0tQNkpBdXJ2TVBTNzR5eElPelBPRUNhWHlzQnByM3JEUzRZSWxoN3NZTWpEYTF0V0FsLzVEQ3JWaVJtM0FBPT0K",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.12/VectorV12_1.0.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T01LQ3d5R005clZuTDVPVG9VZVcrUU0ySnA3NkxVQVF5R3NqTTJETDZCckpzRTNpV2RINDVldytXZWNBT2xBQ01NY2lxSzlvb0NkelNTaWdkTjlSQmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODI2NTgxCWZpbGU6VmVjdG9yVjEyXzEuMC4xM194NjQtc2V0dXAuZXhlCmdQdVZOT0FBTWdVckVUUVUvSWZYUkR4MU9zOGVnc1RNZGw3ZHhNNkJDODZIRXBpMm1mQklJc2ZWVGxIT0t2MnFSamtxK0lxY0Z6cmN3amRWZzBZSUNRPT0K",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.13/VectorV12_1.0.13_x64-setup.exe"
     }
   }
 }
