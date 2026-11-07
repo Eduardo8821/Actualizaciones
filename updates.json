@@ -1,11 +1,11 @@
 {
-  "version": "1.0.13",
-  "notes": "Deteccion en inventario para evitar productos duplicados",
-  "pub_date": "2026-05-18T19:48:49.000Z",
+  "version": "1.0.14",
+  "notes": "Fluidez y optimizacion para las bases de datps",
+  "pub_date": "2026-11-07T15:48:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T01LQ3d5R005clZuTDVPVG9VZVcrUU0ySnA3NkxVQVF5R3NqTTJETDZCckpzRTNpV2RINDVldytXZWNBT2xBQ01NY2lxSzlvb0NkelNTaWdkTjlSQmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODI2NTgxCWZpbGU6VmVjdG9yVjEyXzEuMC4xM194NjQtc2V0dXAuZXhlCmdQdVZOT0FBTWdVckVUUVUvSWZYUkR4MU9zOGVnc1RNZGw3ZHhNNkJDODZIRXBpMm1mQklJc2ZWVGxIT0t2MnFSamtxK0lxY0Z6cmN3amRWZzBZSUNRPT0K",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.13/VectorV12_1.0.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T08ydnJ3S3h4MHRDQWJUTGc0bzZpSmZsbWQ5bjB6MXRSSmk5bDVsUXJDODQzWjJ3VENnUzMzTWY5K0w3bUx6bFl5UnVnRWRZRTJ2N0FaTUlLUkVhZ0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA4MDY5CWZpbGU6VmVjdG9yVjEyXzEuMC4xNF94NjQtc2V0dXAuZXhlCis1STNRWjBreU15REJuNmp1QUE0VEdIV2lFTjVGQjFOS2xzQ3N0aWxUMGd3ZDg3eHJOQWRRbmhaOUt4UGxRL0NaRlEvR1FYaXVQYVBtSDRsTmlESEJBPT0K",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.14/VectorV12_1.0.14_x64-setup.exe"
     }
   }
 }
