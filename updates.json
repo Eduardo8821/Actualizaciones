@@ -1,11 +1,11 @@
 {
-  "version": "1.0.14",
-  "notes": "Fluidez y optimizacion para las bases de datps",
+  "version": "1.0.15",
+  "notes": "Mayor estabilidad en el modo RED (Madre/Satelite)",
   "pub_date": "2026-11-07T15:48:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T08ydnJ3S3h4MHRDQWJUTGc0bzZpSmZsbWQ5bjB6MXRSSmk5bDVsUXJDODQzWjJ3VENnUzMzTWY5K0w3bUx6bFl5UnVnRWRZRTJ2N0FaTUlLUkVhZ0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA4MDY5CWZpbGU6VmVjdG9yVjEyXzEuMC4xNF94NjQtc2V0dXAuZXhlCis1STNRWjBreU15REJuNmp1QUE0VEdIV2lFTjVGQjFOS2xzQ3N0aWxUMGd3ZDg3eHJOQWRRbmhaOUt4UGxRL0NaRlEvR1FYaXVQYVBtSDRsTmlESEJBPT0K",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.14/VectorV12_1.0.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0FwTSt6RjVxb3ZaSW1MR1FLbHJqYUxRNE4zOW5Dd0t6T0U4Y0VLMlFHdzFELzdyZWUxTnFyWWcvNGc2T0c2dU5JMm5EN01hNFR5dVdIRFNYNTBoWUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI3MDEwCWZpbGU6VmVjdG9yVjEyXzEuMC4xNV94NjQtc2V0dXAuZXhlCnp6OU1MSFIzWCtYUllBU21VTTkyeFhjOUVDSmxBbVp6eVYzczF0MlFwWTJDNS9na3ZqWVN2RjhaSmt6M2VjUGRJTVBZSWVqSVpJdmJZZExnYVBqQUNRPT0K",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.15/VectorV12_1.0.15_x64-setup.exe"
     }
   }
 }
