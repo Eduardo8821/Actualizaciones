@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
-  "notes": "Mayor estabilidad en el modo RED (Madre/Satelite)",
+  "version": "1.0.16",
+  "notes": "Rapidez en ventas (Terminal)",
   "pub_date": "2026-11-07T15:48:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0FwTSt6RjVxb3ZaSW1MR1FLbHJqYUxRNE4zOW5Dd0t6T0U4Y0VLMlFHdzFELzdyZWUxTnFyWWcvNGc2T0c2dU5JMm5EN01hNFR5dVdIRFNYNTBoWUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI3MDEwCWZpbGU6VmVjdG9yVjEyXzEuMC4xNV94NjQtc2V0dXAuZXhlCnp6OU1MSFIzWCtYUllBU21VTTkyeFhjOUVDSmxBbVp6eVYzczF0MlFwWTJDNS9na3ZqWVN2RjhaSmt6M2VjUGRJTVBZSWVqSVpJdmJZZExnYVBqQUNRPT0K",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.15/VectorV12_1.0.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0svUUVabDdXbnBPMWU3ZmVVQnFKNERtT2xZRTRLZWFEOGh2THdBa1FkeFNTVzFPc2FWK01sUHFKU2plc2RsRno1emxYdnUwYTdZbkMyODV5RFIzYlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA5MTE5CWZpbGU6VmVjdG9yVjEyXzEuMC4xNl94NjQtc2V0dXAuZXhlCi84WldVNEppMzVDV1FLQytaOXdIR0YvcStGWVNjUElJN3lzbHNMbTBHVCtnblFJUlFaZ2E1MDhnUnkxU2Y2dVlBSkNVcis4VTBKbDNKaHpnTHR6MkNBPT0K",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.16/VectorV12_1.0.16_x64-setup.exe"
     }
   }
 }
