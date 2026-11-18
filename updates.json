@@ -1,11 +1,11 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.17",
   "notes": "Se corrgio una discrepancia entre Efectivo BS / Efectivo USD",
   "pub_date": "2026-11-18T05:49:49.441Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0Y5L1FBYzFpTFFNQ1BjMC92MEQ3Y2JWRHJsbzRFVHRiY2Q4TEdybFBNYWRUd2JCZHppVXJIYWgvUStGc090WkJTMDRDK3M3b3ROL05jMk1WclVhbkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTgwNjE4CWZpbGU6VmVjdG9yVjEyXzEuMC4xOF94NjQtc2V0dXAuZXhlCnE3QUVUbXB5NmFKUXpONzFmK2Rxb3FkbU9jVGNmUHpzUXlORlQwaCtSai85a0tGUVloWTBSTnpMK3BON3pCMSsxcUU5MWdRZk4wcVJrT21SWWlCRER3PT0K",
-      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.18/VectorV12_1.0.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXgyejNqc1d1T0I5SS8xeFdtQzV4Yk5WY1dUN1NWbEdQWEtqbi9mSFprRTBESmh5TnVkaExaRXA2Mlp5bnFxVzEzQVVXQ2liK0QxZkRBVDkyellxZ3JVL2JXeEE3MHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODg5NzEwCWZpbGU6VmVjdG9yVjEyXzEuMC4xN194NjQtc2V0dXAuZXhlCmhDOWVPTWFhbXBtcFZlOE4rVTBVajJDM0YvZHczMnE0N3paQXB1YTlVdmF4N05tUXhGQXlGRmV4ZXVjSk9neG1GM2F6V0V6aERUQUQ4MVNMeXptNUJRPT0K",
+      "url": "https://github.com/Eduardo8821/Actualizaciones/releases/download/1.0.17/VectorV12_1.0.17_x64-setup.exe"
     }
   }
 }
